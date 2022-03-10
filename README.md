@@ -22,3 +22,7 @@ All files were based on the course from the cited site.
 12. Reporting Services
 13. Infrastructure
 14. BI Service in Excel
+
+## Others
+
+[Notes](https://github.com/thiagoneye/course-business_intelligence/blob/main/notes.md/)
